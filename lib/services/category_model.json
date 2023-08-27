@@ -1,0 +1,85 @@
+
+{
+  "categories":[
+    {
+      "name":"Car Accessories",
+      "subcategory":[
+        "C1",
+        "C2",
+        "C3"
+      ]
+    },
+
+    {
+      "name":"Bags",
+      "subcategory":[
+        "B1",
+        "B2",
+        "B3"
+      ]
+    },
+
+    {
+      "name":"Packing Material",
+      "subcategory":[
+        "M1",
+        "M2",
+        "M3"
+      ]
+    },
+
+    {
+      "name":"Exercise Products",
+      "subcategory":[
+        "E1",
+        "E2",
+        "E3"
+      ]
+    },
+
+    {
+      "name":"Mobile Accessories",
+      "subcategory":[
+        "A1",
+        "A2",
+        "A3"
+      ]
+    },
+
+    {
+      "name":"Summer Product",
+      "subcategory":[
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+
+    {
+      "name":"Stationery Product",
+      "subcategory":[
+        "P1",
+        "P2",
+        "P3"
+      ]
+    },
+
+    {
+      "name":"Winter Product",
+      "subcategory":[
+        "W1",
+        "W2",
+        "W3"
+      ]
+    },
+
+    {
+      "name":"Computer Product",
+      "subcategory":[
+        "C1",
+        "C2",
+        "C3"
+      ]
+    }
+  ]
+}
